@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "frontserviceweb"
+  "defaultProject": "frontserviceweb",
+  "cli": {
+    "analytics": false
+  }
 }
